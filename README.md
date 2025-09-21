@@ -1,3 +1,5 @@
+![Banner](./assets/banner.png)
+
 ## Hi there 👋 I'm Fahri
 
 I'm a curious developer who loves building clean, scalable apps and solving tricky bugs with a smile 😄. Whether it's crafting smooth UIs in Flutter or wiring up backend logic with Supabase, I enjoy making things work—and making them work well.
