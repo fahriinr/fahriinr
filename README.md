@@ -12,7 +12,7 @@ I'm a curious developer who loves building clean, scalable apps and solving tric
 
 ### 🚀 Projects
 
-- **DuitTracker** — A Flutter app to track your spending and stay financially sane. Built with Supabase for auth and data storage.
+- **DuitTracker** — A Flutter app to track your spending and stay financially sane. Built with Hive for local storage.
 - **Split-Bill** — A ReactJS web app to split expenses with friends without the awkward math.
 
 I’m always learning, refactoring, and trying to make my workflow more teachable and reusable. If you’re into clean architecture, debugging weird edge cases, or just geeking out over state management, we’ll probably get along!
