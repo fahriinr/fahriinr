@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there 👋 I'm Fahri
 
-<!--
-**fahriinr/fahriinr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a curious developer who loves building clean, scalable apps and solving tricky bugs with a smile 😄. Whether it's crafting smooth UIs in Flutter or wiring up backend logic with Supabase, I enjoy making things work—and making them work well.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💙 Flutter & Dart — for beautiful, reactive mobile apps
+- ⚛️ React & JavaScript/TypeScript — for snappy web interfaces
+- 🧠 Supabase — for authentication, database, and backend magic
+
+### 🚀 Projects
+
+- **DuitTracker** — A Flutter app to track your spending and stay financially sane. Built with Supabase for auth and data storage.
+- **Split-Bill** — A ReactJS web app to split expenses with friends without the awkward math.
+
+I’m always learning, refactoring, and trying to make my workflow more teachable and reusable. If you’re into clean architecture, debugging weird edge cases, or just geeking out over state management, we’ll probably get along!
+
+---
+
+Feel free to check out my repos or say hi 👋
