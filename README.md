@@ -7,8 +7,7 @@ I'm a curious developer who loves building clean, scalable apps and solving tric
 ### 🛠 Tech Stack
 
 - 💙 Flutter & Dart — for beautiful, reactive mobile apps
-- ⚛️ React & JavaScript/TypeScript — for snappy web interfaces
-- 🧠 Supabase — for authentication, database, and backend magic
+- ⚛️ React & NextJS — for snappy web interfaces
 
 ### 🚀 Projects
 
