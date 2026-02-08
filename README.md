@@ -8,7 +8,7 @@ I'm a developer focused on building clean, scalable applications and efficient p
 
 - Frontend: Flutter & Dart, React, Next.js
 - Backend: Express.js, Hono, Supabase
-- Database: PostgreSQL, MongoDB, Redis
+- Database: MySQL, PostgreSQL, Redis
 
 ### 🚀 Projects
 
